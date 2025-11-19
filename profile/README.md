@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+# BETK – Building Element Traceability & Knowledgeflow
+is a supply chain workgroup managed by the Finnish Association of Construction Product Industries and its member organisations
 <!--
 
 **Here are some ideas to get you started:**
