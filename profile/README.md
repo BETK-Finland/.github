@@ -1,14 +1,14 @@
-## Hi there 👋
+# **$\color{blue}{\textsf{Hi there 👋}}$**
 
 
-# BETK – Building Element Traceability & Knowledgeflow
+## **$\color{gray}{\textsf{BETK – Building Element Traceability and Knowledgeflow}}$**
 is an engineer-to-order production strategy development supply chain workgroup managed by the Finnish Association of Construction Product Industries and its member organisations
 
-# Contributing to BETK
+# **$\color{blue}{\textsf{Contributing to BETK}}$**
 Want to contribute to BETK? <br> 
 **Start simple:**
 
-:point_right:  **$\color{red}{\textsf{Open an issue}}$** <br>
+## :point_right:  **$\color{red}{\textsf{Open an issue}}$** <br>
 Briefly describe what you’d like to propose, fix, or ask about.
 We’ll discuss your idea together and decide on the next steps.
 
