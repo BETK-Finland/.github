@@ -8,7 +8,7 @@ is an engineer-to-order production strategy development supply chain workgroup m
 Want to contribute to BETK? <br> 
 **Start simple:**
 
-:point_right:  **$\color{red}{\textsf{Open an issue}}$**<br>
+:point_right:  **$\color{red}{\textsf{Open an issue}}$** <br>
 Briefly describe what you’d like to propose, fix, or ask about.
 We’ll discuss your idea together and decide on the next steps.
 
