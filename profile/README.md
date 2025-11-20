@@ -13,9 +13,9 @@ Want to contribute to BETK? <br>
 Briefly describe what you’d like to propose, fix, or ask about.
 We’ll discuss your idea together and decide on the next steps.
 
-Thank you for helping improve BETK.
+:octocat: **Thank you for helping improve BETK**
 
-:octocat:
+
 
 
 <!--
