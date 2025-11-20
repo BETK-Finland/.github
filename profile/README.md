@@ -2,7 +2,7 @@
 
 
 # BETK – Building Element Traceability & Knowledgeflow
-is an Engineer-to-Order production strategy development supply chain workgroup managed by the Finnish Association of Construction Product Industries and its member organisations
+is an engineer-to-order production strategy development supply chain workgroup managed by the Finnish Association of Construction Product Industries and its member organisations
 
 # Contributing to BETK
 Want to contribute to BETK? <br> 
