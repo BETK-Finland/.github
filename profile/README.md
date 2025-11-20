@@ -1,7 +1,7 @@
 # **$\color{blue}{\textsf{Hi there 👋}}$**
 
 
-## **$\color{gray}{\textsf{BETK – Building Element Traceability and Knowledgeflow}}$**
+## **$\color{gray}{\textsf{BETK – Building Element Technical attributes and Knowledgeflow}}$**
 is an engineer-to-order production strategy development supply chain workgroup managed by the Finnish Association of Construction Product Industries and its member organisations
 
 # **$\color{blue}{\textsf{Contributing to BETK}}$**
