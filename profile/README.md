@@ -1,7 +1,7 @@
 # **$\color{blue}{\textsf{Hi there 👋}}$**
 
 
-## **$\color{gray}{\textsf{BETK – Building Element Technical attributes and Knowledgeflow}}$**
+## **$\color{gray}{\textsf{BETK}}$**
 is a digital supply chain development workgroup focused on Engineer-to-Order production strategies, managed by the Finnish Association of Construction Product Industries (RTT) and its member organisations.
 
 # **$\color{blue}{\textsf{Contributing to BETK}}$**
